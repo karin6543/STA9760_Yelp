@@ -1,4 +1,4 @@
-***:sparkles:STA9760_Project2:camel:***
+#:sparkles:STA9760_Project2:camel:**
 
 **<br />Goals:**
 <br />1. Get data from the NYC Open Data Database and store locally (as json file)
