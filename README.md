@@ -8,3 +8,9 @@
 <br />5. Create visualizations to communicate findings.
 
 **<br />Tools: Python3,JupyterNotebook,AWS EMR, AWS S3**
+
+Graph 1: Cluster Config  
+![alt text]( https://github.com/karin6543/STA9760_Yelp/blob/master/cluster_config.png "Graph 1")
+
+Graph 2: Notebook Config
+![alt text](https://github.com/karin6543/STA9760_Yelp/blob/master/notebook_config.jpeg "Graph 1")
